@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Sefaria Search",
   "description": "Allow user to search within Sefaria, and extract links (''refs'')",
-  "version": "1.1.2017.1122",
+  "version": "1.7.2017.1122",
   "offline_enabled": false,
   "icons": {
     "128": "images/search128.png"
